@@ -13,7 +13,7 @@ This project aims to develop a predictive model to optimize effort in machine le
 
 ## Installation Instructions
 1. Clone the repository:
-git clone <repository-url>
+`git clone https://github.com/devyn-miller/econ-667-contest-application.git`
 2. Install required packages:
 pip install -r requirements.txt
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 - Run the app: `streamlit run deployment/app.py`
 
 ## Contributors
-- [Your Name](your-email@example.com)
+- Devyn Miller
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
